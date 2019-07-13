@@ -2,7 +2,7 @@
 Ejemplo para el taller de GitHub
 
 <p align="center">
-  <img src="https://orienten.me/media/institution/thumbnails/escuela-da-vinci_MoK2MAJ.png.180x180_q70_crop.jpg">
+  <img src="https://www.oferraro.com.ar/assets/logos/davinci.png">
 </p>
 
 ## Hola soy el hijo del titulo
